@@ -1,4 +1,4 @@
-# media-info
+# media-links
 
 Tutorial 
 - LIVE - Workshop 1 - Mini-tutorial HTML+CSS - Construim de la zero o pagină web pentru tine | Youtube Channel: Viorel Mocanu - IT career advice in Romania
